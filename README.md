@@ -1,1 +1,1 @@
-i am going to create a virtual physics environment for engine jet simulations 
+i am going to create a virtual physics environment for jet engine simulations 
